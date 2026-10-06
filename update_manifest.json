@@ -1,10 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.2",
   "force_full_update": false,
-  "offsets": {
-    "offsets.json": "c7e8a7aaa494fc7a898dca64e4780d487aed26417eaabcbc2591f481f1ce51a2",
-    "client_dll.json": "0e7e8dc1d6a68b750247844f4947083a9a0343baaaafb4d67d89c9b20f0754fc",
-    "buttons.json": "582fb02f6b4330b5ddd625746bc260e88a631d5b2c490c88cde174b318a95a0e"
-  },
+  
   "changelog": "Updated offsets for latest CS2 patch."
 }
